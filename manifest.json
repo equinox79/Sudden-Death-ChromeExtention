@@ -1,0 +1,10 @@
+{
+  "name": "突然の...",
+  "description": "http://sudden-death.papix.net/",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["sample.js"]
+  },
+  "manifest_version": 2
+}
